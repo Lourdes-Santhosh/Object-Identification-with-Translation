@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pyttsx3
+gtts
+deep_translator
+pygame
